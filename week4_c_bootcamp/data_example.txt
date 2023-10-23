@@ -1,0 +1,7 @@
+1
+2
+3
+4
+5
+The total is: 15
+The mean is: 3.000000
