@@ -76,7 +76,7 @@ int main() {
     }
 */
 
-
+/*
 //Task 5
     int input5;
     printf("Please enter where you would like to go:\n [0 - home]\n [1 - info]\n [2 - contacts]\n [3 - mail]\n [4 - settings]\n");
@@ -101,7 +101,7 @@ int main() {
     default: printf("You have not selected a valid option \n");
     break;
     }
-
+*/
 
     return 0;
 
